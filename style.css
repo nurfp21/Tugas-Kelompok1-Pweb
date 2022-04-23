@@ -1,0 +1,105 @@
+body {
+	font: 100% Open Sans, Serif;
+	background-color: #006400;
+    background-image: url('https://sanjayatour.com/wp-content/uploads/2020/02/Museum-Monumen-Yogya-Kembali-Monjali.jpg');
+    background-size: cover;
+    background-attachment: local;
+}
+
+div {
+	
+	padding: 15px;
+	border-width: thin; 
+	width: 100%;
+}
+
+.container {
+    xmin-width: 1000px;
+    margin: auto;
+    background-color: white;
+}
+
+.wrapper {
+	margin: auto;
+	width: 900px;
+	position: relative;
+}
+
+#bar {
+	width: 860px;
+	border-radius: 10px;
+}
+
+#telp, #email {
+	float: left;
+
+}
+
+#telp {
+
+}
+
+#email {
+
+}
+
+#logo {
+	width: 150px;
+	height: 150px;
+}
+
+#header {
+	border-radius: 15px;
+	background-color: #DEB887;
+	width: 600px;
+	margin: auto;
+	height: 500px;
+}
+
+#judul, .info {
+	text-align: center;
+}
+
+.info {
+	font-size: 15px;
+}
+#menu {
+}
+
+.menubar{
+	padding: 15px;
+	float: right;
+	width: 130px;
+	font-size: 20px;
+}
+
+#tentang {
+	width: 100%;
+	margin: auto;
+	text-align: center;
+}
+
+.konten {
+	font-size: 20px;
+	font-style: italic;
+}
+
+#footer {
+	width: 100%;
+	height: 200px;
+}
+.sosmed {
+	float: right;
+	width: 50px;
+}
+#nama {
+	width: 200px;
+}
+.baris {
+	width: 200px;
+	height: 700px;
+}
+
+.kolom1 {
+	float: left;
+}
